@@ -10,7 +10,7 @@ It uses the **IMDB dataset** and simulates multiple clients training locally wit
 - Text classification task (IMDB sentiment)
 - Evaluation metrics (accuracy per round)
 
-## 🛠 Requirements
+##  Requirements
 
 ```bash
 pip install -r requirements.txt
@@ -30,7 +30,7 @@ python server.py
 python client.py
 ```
 
-## 📊 Example Results
+##  Example Results
 
 | Round | Accuracy |
 |-------|----------|
@@ -38,7 +38,7 @@ python client.py
 | 2     | 0.82     |
 | 3     | 0.85     |
 
-## 📂 Files Overview
+##  Files Overview
 
 - `client.py`: Local model training and evaluation logic
 - `server.py`: Federated server with aggregation strategy
