@@ -59,6 +59,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 👩‍💻 Author
 
-**Your Name**  
+**Hafiza Maria Iqbal**  
 Researcher | Federated Learning | NLP | Privacy  
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/Hafizamariaiqbal)
