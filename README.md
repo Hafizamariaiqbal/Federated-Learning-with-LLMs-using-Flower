@@ -1,4 +1,4 @@
-# Federated Learning with LLMs using Flower
+# Federated Learning with LLM using Flower
 
 This project demonstrates **federated fine-tuning of a pre-trained LLM** (`DistilBERT`) for **text classification (sentiment analysis)** using the [Flower](https://flower.dev) federated learning framework.
 
