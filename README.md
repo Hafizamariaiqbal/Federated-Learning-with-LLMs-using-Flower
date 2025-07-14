@@ -1,22 +1,22 @@
-# Federated Learning with LLMs using Flower & Hugging Face 🤖🌍
+# Federated Learning with LLMs using Flower
 
 This project demonstrates **federated fine-tuning of a pre-trained LLM** (`DistilBERT`) for **text classification (sentiment analysis)** using the [Flower](https://flower.dev) federated learning framework.
 
 It uses the **IMDB dataset** and simulates multiple clients training locally without sharing their data.
 
-## 🧠 Features
+##  Features
 - Federated learning using Flower (FedAvg strategy)
 - Transformer model: `distilbert-base-uncased`
 - Text classification task (IMDB sentiment)
 - Evaluation metrics (accuracy per round)
 
-## 🛠️ Requirements
+## 🛠 Requirements
 
 ```bash
 pip install -r requirements.txt
 ```
 
-## 🚀 How to Run
+##  How to Run
 
 Open multiple terminals for simulation.
 
@@ -46,18 +46,18 @@ python client.py
 - `requirements.txt`: List of dependencies
 - `LICENSE`: MIT License
 
-## 🔐 Future Work
+##  Future Work
 
 - Add **Differential Privacy** (e.g., using Opacus)
 - Use real distributed clients (on different machines)
 - Add **Secure Aggregation**
 - Try larger LLMs (BERT, RoBERTa, LLaMA, etc.)
 
-## 📜 License
+##  License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
-## 👩‍💻 Author
+##  Author
 
 **Hafiza Maria Iqbal**  
 Researcher | Federated Learning | NLP | Privacy  
